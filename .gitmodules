@@ -1,0 +1,3 @@
+[submodule "trivis"]
+	path = trivis
+	url = git@github.com:janmikulacz/trivis.git

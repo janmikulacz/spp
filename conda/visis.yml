@@ -1,0 +1,10 @@
+name: visis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.11.5
+  - compilers==1.6.0
+  - cmake==3.27.4
+  - boost==1.82.0
+  - cairo==1.16.0
